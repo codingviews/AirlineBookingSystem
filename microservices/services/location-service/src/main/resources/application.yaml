@@ -1,0 +1,10 @@
+server:
+    port: 5004
+spring:
+  application:
+    name: location-service
+  datasource:
+    url: jdbc:postgresql://localhost:5432/abs_location_db
+    username: postgres
+    password: secret
+    driver-class-name: org.postgresql.Driver
