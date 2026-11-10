@@ -1,7 +1,7 @@
 package com.cviews.abs.location.service;
 
-import com.cviews.abs.location.payload.CityRequest;
-import com.cviews.abs.location.payload.CityResponse;
+import com.cviews.abs.payload.CityRequest;
+import com.cviews.abs.payload.CityResponse;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

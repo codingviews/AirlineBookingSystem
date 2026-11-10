@@ -1,8 +1,8 @@
 package com.cviews.abs.location.mapper;
 
 import com.cviews.abs.location.model.City;
-import com.cviews.abs.location.payload.CityRequest;
-import com.cviews.abs.location.payload.CityResponse;
+import com.cviews.abs.payload.CityRequest;
+import com.cviews.abs.payload.CityResponse;
 
 public class CityMapper {
 

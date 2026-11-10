@@ -1,4 +1,4 @@
-package com.cviews.payload.response;
+package com.cviews.abs.payload.response;
 
 import java.util.Objects;
 
