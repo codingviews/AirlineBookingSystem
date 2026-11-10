@@ -1,9 +1,9 @@
 package com.cviews.abs.location.service.controller;
 
-import com.cviews.abs.location.payload.CityRequest;
-import com.cviews.abs.location.payload.CityResponse;
+import com.cviews.abs.payload.CityRequest;
+import com.cviews.abs.payload.CityResponse;
 import com.cviews.abs.location.service.CityService;
-import com.cviews.payload.response.ApiResponse;
+import com.cviews.abs.payload.response.ApiResponse;
 import jakarta.validation.Valid;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

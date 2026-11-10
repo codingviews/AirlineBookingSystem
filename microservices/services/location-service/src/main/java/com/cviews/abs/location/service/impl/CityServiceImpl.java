@@ -2,8 +2,8 @@ package com.cviews.abs.location.service.impl;
 
 import com.cviews.abs.location.mapper.CityMapper;
 import com.cviews.abs.location.model.City;
-import com.cviews.abs.location.payload.CityRequest;
-import com.cviews.abs.location.payload.CityResponse;
+import com.cviews.abs.payload.CityRequest;
+import com.cviews.abs.payload.CityResponse;
 import com.cviews.abs.location.repository.CityRepository;
 import com.cviews.abs.location.service.CityService;
 import org.springframework.data.domain.Page;

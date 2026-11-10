@@ -1,6 +1,6 @@
 package com.cviews.abs.location.service.controller;
 
-import com.cviews.payload.response.ApiResponse;
+import com.cviews.abs.payload.response.ApiResponse;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
